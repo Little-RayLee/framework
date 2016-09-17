@@ -5,5 +5,5 @@
   <groupId>org.matrix.framework</groupId>
   <artifactId>matrix-ws-core</artifactId>
   <version>5.0.1-RELEASE</version>
-  <description>POM was created by Sonatype Nexus</description>
+  <description>POM was created from install:install-file</description>
 </project>
